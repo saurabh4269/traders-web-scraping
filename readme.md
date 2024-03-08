@@ -1,5 +1,5 @@
 ## Overview
-This repository contains the code and documentation for the AlgoBulls web scraping project, as part of the assignment for [insert course or program name]. The project aims to create a repository of active traders by extracting information available on social media platforms, especially LinkedIn and Twitter, using web scraping techniques, natural language processing (NLP), and automation tools.
+The project aims to create a repository of active traders by extracting information available on social media platforms, especially LinkedIn and Twitter, using web scraping techniques, natural language processing (NLP), and automation tools.
 
 ## Features
 - Extract trader information from social media platforms.
